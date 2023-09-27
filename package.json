@@ -1,0 +1,7 @@
+{
+  "name": "dts-emit-widened-unwidened-examples",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
