@@ -30,7 +30,7 @@ index 7978d2c..b92a151 100644
 Meaning we _used_ to observe the unwidened values from `a.ts`, but now we observe the _widened_ values from `a.d.ts`.
 
 
-Now, tunning with https://github.com/microsoft/TypeScript/pull/55445 which doesn't widen in `d.ts` emit:
+Now, running with https://github.com/microsoft/TypeScript/pull/55445 which _doesn't_ widen in `d.ts` emit:
 
 ```sh
 $ tsc
